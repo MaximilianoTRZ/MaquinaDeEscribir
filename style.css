@@ -1,0 +1,16 @@
+body {
+    background-color: darkcyan;
+    color: lightgray;
+
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#typeWriter {
+    font-size: 80px;
+    font-family: monospace;
+    font-weight: bold;
+}
