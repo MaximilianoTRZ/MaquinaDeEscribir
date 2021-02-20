@@ -1,5 +1,5 @@
 const textoEnPantalla = document.getElementById("typeWriter")
-const frases = ["Hola!", "Todo bien?", "Nos vemos."]
+const frases = ["Hola!", "Tu nariz contra mis bolas", "Tumbeado perri"]
 let i = 0
 let j = 0
 let fraseActual = []
